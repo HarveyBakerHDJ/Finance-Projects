@@ -13,10 +13,13 @@ time series models and data wrangling techniques.
 
 ## Projects
 
-### 1. Black-Scholes Option Pricing Model
-- **Descriptions**: A python based model using multiple libraries to calculate the theoretical price of European call and put options, uses streamlit to create a web application
+### 1. Black-Scholes Option Pricing Model Web Application 
+- **Descriptions**: A Python based model using multiple libraries to calculate the theoretical price of European call and put options, uses streamlit to create a web application
 - **Files**: 'black_scholes_model.ipynb', 'black_scholes_model.py'
 
+### 2. Stock Data Visualisation Dashboard Web Application 
+- **Descriptions**: A Python & Matplotlib based web app that produces 3 key graphs on any user inputted stock ticker
+- **Files**: 'Python_Dashboard.ipynb', 'Python_Dashboard.py'
 
 ## Usage/Installation
 
