@@ -25,6 +25,10 @@ time series models and data wrangling techniques.
 - **Descriptions**: A GARCH model within Python to forecast out Natural Gas prices, accounting for both seasonality & trend 
 - **Files**: 'JPM_Forecasting_Natural_Gas_Prices.ipynb', 'JPM_Forecasting_Natural_Gas_Prices.py'
 
+### 4. Alibaba & Paypal Discounted Cash Flows
+- **Descriptions**: Two Discounted Cash Flow models of Alibaba and Paypal, completed early January 2024, returning a combined 34.5% at position exit October 2024, uses advanced Excel functions to create a dynamic model with 3 cases  
+- **Files**: 'PayPal DCF.xlsx', 'Alibaba DCF.xlsx'
+
 ## Usage/Installation
 
 To run these projects locally both Python and the necessary libraries will have to be installed, here are the steps all done in the CMD Terminal:
