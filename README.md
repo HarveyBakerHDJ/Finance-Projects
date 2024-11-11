@@ -21,6 +21,10 @@ time series models and data wrangling techniques.
 - **Descriptions**: A Python & Matplotlib based web app that produces 3 key graphs on any user inputted stock ticker
 - **Files**: 'Python_Dashboard.ipynb', 'Python_Dashboard.py'
 
+### 3. JP Morgan | Forecasting Natural Gas Prices  
+- **Descriptions**: A GARCH model within Python to forecast out Natural Gas prices, accounting for both seasonality & trend 
+- **Files**: 'JPM_Forecasting_Natural_Gas_Prices.ipynb', 'JPM_Forecasting_Natural_Gas_Prices.py'
+
 ## Usage/Installation
 
 To run these projects locally both Python and the necessary libraries will have to be installed, here are the steps all done in the CMD Terminal:
