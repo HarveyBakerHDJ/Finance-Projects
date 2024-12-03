@@ -29,6 +29,10 @@ time series models and data wrangling techniques.
 - **Descriptions**: Two Discounted Cash Flow models of Alibaba and Paypal, completed early January 2024, returning a combined 34.5% at position exit October 2024, uses advanced Excel functions to create a dynamic model with 3 cases  
 - **Files**: 'PayPal DCF.xlsx', 'Alibaba DCF.xlsx'
 
+### 5. Bitcoin Futures Monte Carlo Simulation
+- **Descriptions**: A Python based Monte Carlo Simulation of Bitcoin's futures prices over a one year time horizon using Jupyter Notebook and ChatGPT4o
+- **Files**: 'BTC_MonteCarloSimulation_UsingGPT4o.py'
+
 ## Usage/Installation
 
 To run these projects locally both Python and the necessary libraries will have to be installed, here are the steps all done in the CMD Terminal:
