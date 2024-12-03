@@ -59,3 +59,4 @@ Each project contains a jupyter notebook .ipynb for use in jupyter notebook and 
 - **Name**: Harvey Baker
 - **Email**: hrvybkr1@outlook.com
 - **GitHub**: HarveyBakerHDJ
+- **LinkedIn**: Harvey Baker
