@@ -37,6 +37,11 @@ time series models and data wrangling techniques.
 - **Descriptions**: Hidden code not included in my research paper. This project displays key insights into BTC's volatility profile which can be seen in the code comments and paper.
 - **Files**: 'BTC_vol.py'
 
+### 7. Simple Geometric Brownian Motion Simulator
+- **Descriptions**: Simple GBM simulation and visual display for inputted variable values.
+- **Files**: 'GBM_Sim.py'
+
+
 ## Usage/Installation
 
 To run these projects locally both Python and the necessary libraries will have to be installed, here are the steps all done in the CMD Terminal:
