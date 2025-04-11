@@ -33,6 +33,10 @@ time series models and data wrangling techniques.
 - **Descriptions**: A Python based Monte Carlo Simulation of Bitcoin's futures prices over a one year time horizon using Jupyter Notebook and ChatGPT4o
 - **Files**: 'BTC_MonteCarloSimulation_UsingGPT4o.py'
 
+### 6. Bitcoin Volatility Profiling Code
+- **Descriptions**: Hidden code not included in my research paper. This project displays key insights into BTC's volatility profile which can be seen in the code comments and paper.
+- **Files**: 'BTC_vol.py'
+
 ## Usage/Installation
 
 To run these projects locally both Python and the necessary libraries will have to be installed, here are the steps all done in the CMD Terminal:
